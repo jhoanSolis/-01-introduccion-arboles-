@@ -1,0 +1,64 @@
+       NodoGeneral<String> raiz = new NodoGeneral<>("Empresa");
+        ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:7: error: cannot find symbol
+        NodoGeneral<String> raiz = new NodoGeneral<>("Empresa");
+                                       ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:10: error: cannot find symbol
+        NodoGeneral<String> tecnologia = new NodoGeneral<>("Tecnología");
+        ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:10: error: cannot find symbol
+        NodoGeneral<String> tecnologia = new NodoGeneral<>("Tecnología");
+                                             ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:11: error: cannot find symbol
+        NodoGeneral<String> finanzas = new NodoGeneral<>("Finanzas");
+        ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:11: error: cannot find symbol
+        NodoGeneral<String> finanzas = new NodoGeneral<>("Finanzas");
+                                           ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:12: error: cannot find symbol
+        NodoGeneral<String> talento = new NodoGeneral<>("Talento Humano");
+        ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:12: error: cannot find symbol
+        NodoGeneral<String> talento = new NodoGeneral<>("Talento Humano");
+                                          ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:18: error: cannot find symbol
+        tecnologia.agregarHijo(new NodoGeneral<>("Desarrollo"));
+                                   ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:19: error: cannot find symbol
+        tecnologia.agregarHijo(new NodoGeneral<>("Soporte"));
+                                   ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:20: error: cannot find symbol
+        finanzas.agregarHijo(new NodoGeneral<>("Contabilidad"));
+                                 ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:21: error: cannot find symbol
+        finanzas.agregarHijo(new NodoGeneral<>("Tesorería"));
+                                 ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
+Actividad1.java:22: error: cannot find symbol
+        talento.agregarHijo(new NodoGeneral<>("Selección"));
+                                ^
+  symbol:   class NodoGeneral
+  location: class Actividad1
